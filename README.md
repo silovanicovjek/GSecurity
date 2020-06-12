@@ -15,6 +15,4 @@ GSecurity Windows Hardening
 
 # Next it will apply some performance tweaks. 
 
-# Next it will add a bunch of context menus to make your life easier. 
-
 # And next it will import SSRP, software restriction, which is made by me, and should ensure an additional layer of protection against some threats I encountered personally.
