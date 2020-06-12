@@ -3,7 +3,7 @@ GSecurity Windows Hardening
 
 # This app will use builtin windows files to debloat and harden windows. None of the code is mine, I just copy pasted it from all over the net. If you have 3rd party security apps active, you should disable them for this to work or they may interrupt it. 
 
-# GSecurity will use powershell commands to uninstall all apps except store and xbox identity, which methinks are needed for normal system operation. 
+# GSecurity will use powershell commands to uninstall all apps except store and xbox identity, which I think are needed for normal system operation. 
 
 # It will also import tweaked 2004 microsoft security baseline. The tweak is in disabling usb writing protection unless the usb is encrypted and the 2nd tweak is allowing users to run even files that smartscreen doesn't approve of. 
 
